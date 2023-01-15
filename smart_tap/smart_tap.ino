@@ -1,5 +1,7 @@
-//Ultasonic Sensor
+///Automatic tapwater from arudino
+
 #include <Servo.h>
+//Ultasonic Sensor
 //Pins connected to the ultrasonic sensor
 const int trigPin = 8;
 const int echoPin = 7;
